@@ -12,6 +12,6 @@ We are using the following topic for the MQTT server:
 ## Download Client
 Download the [MQTT Client](http://mqttfx.jensd.de) to monitor MQTT connections. 
 
-## Schematic
+## Schematic for subscribing
 ### OLED Display
 ![OLED](images/oled.png)
